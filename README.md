@@ -2,9 +2,11 @@
 
 I go by many names online, but you can call me Geo.
 
-I'm currently working on creating a game using C++ and various third party libraries such as OpenGL.
+I'm currently working on creating ffmpeg projects.
 
-I will either make my game repository public or add a download link here as a prototype.
+Sound-Board (Coming soon) <--- [Audio-Randomizer](https://github.com/GeoJ2003/Audio-Randomizer) <--- [MP43](https://github.com/GeoJ2003/MP43)
+
+I like making stuff and I improve with each project I create.
 
 Fun Facts about me:
 - My favorite anime is One Piece
