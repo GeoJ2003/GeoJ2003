@@ -2,9 +2,13 @@
 
 I go by many names online, but you can call me Geo.
 
-I'm currently working on creating ffmpeg projects.
+I'm currently working on creating projects.
+
+Projects:
 
 [Sound-Board](https://github.com/GeoJ2003/Sound-Board-Releases) <--- [Audio-Randomizer](https://github.com/GeoJ2003/Audio-Randomizer) <--- [MP43](https://github.com/GeoJ2003/MP43)
+
+[EZ Macro](https://github.com/GeoJ2003/EZ-Macro)
 
 I like making stuff and I improve with each project I create.
 
