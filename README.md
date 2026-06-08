@@ -8,7 +8,7 @@ Projects:
 
 [Sound-Board](https://github.com/GeoJ2003/Sound-Board-Releases) <--- [Audio-Randomizer](https://github.com/GeoJ2003/Audio-Randomizer) <--- [MP43](https://github.com/GeoJ2003/MP43)
 
-[EZ Macro](https://github.com/GeoJ2003/EZ-Macro)
+[EZ Macro](https://github.com/GeoJ2003/EZ-Macro-Free-Releases)
 
 I like making stuff and I improve with each project I create.
 
